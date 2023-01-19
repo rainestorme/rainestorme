@@ -6,7 +6,7 @@
 #### <div align="center">I'm rainestorme, an anonymous user of the website known as GitHub.</div>  
   
 
-- 🔭 I'm currently working on a new secret project. It'll be released in a few days.  
+- 🔭 I'm currently working on `auto-sh1mmer`.
   
 
 - 🌱 I'm learning about ChromeOS Recovery Mode.  
