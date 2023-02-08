@@ -40,4 +40,4 @@
 
 <br/>  
 
-Need to contact me? Shoot me a message on my [KewlForum](http://kewlforum.phpnet.us/u/rainestorme) account.
+Need to contact me? Shoot me a message [here](mailto:rainest0rme@proton.me).
