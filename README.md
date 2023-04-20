@@ -1,23 +1,17 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
+### <div align="center">I'm rainestorme, an anonymous user of the website known as GitHub.</div>  
   
 
-#### <div align="center">I'm rainestorme, an anonymous user of the website known as GitHub.</div>  
+- 🔭 I'm currently working on [murkmod](https://github.com/rainestorme/murkmod) and [chromebook-guide.github.io](https://chromebook-guide.github.io).
   
 
-- 🔭 I'm currently working on murkmod.
-  
+- 🌱 I'm learning about ChromiumOS internals
+    
 
-- 🌱 I'm learning about ChromeOS Recovery Mode.  
+- ⚡ Fun fact: I use ChromeOS, btw.
   
-
-- ❓ Ask me anything about breaking out of school computer restrictions.  
   
-
-- ⚡ Fun fact: I use gentoo, btw.  
-  
-
+- I'm still waiting on an invite to MercuryWorkshop
 <br/>  
 
 ## Github Stats  
