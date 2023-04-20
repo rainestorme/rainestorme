@@ -14,6 +14,8 @@
 - I'm still waiting on an invite to MercuryWorkshop
 <br/>  
 
+Wanna support my work? Use your spare CPU power for a sec and [mine crypto for me](https://server.duinocoin.com/webminer.html?username=rainestorme&threads=4&rigid=&keyinput=funnyminingkeyhere)
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rainestorme&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
