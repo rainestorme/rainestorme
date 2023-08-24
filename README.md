@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact: I use ChromeOS, btw.
   
-  
-- I'm still waiting on an invite to MercuryWorkshop
 <br/>  
 
 Wanna support my work? Use your spare CPU power for a sec and [mine crypto for me](https://server.duinocoin.com/webminer.html?username=rainestorme&threads=4&rigid=&keyinput=funnyminingkeyhere)
