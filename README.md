@@ -2,10 +2,10 @@
 ### <div align="center">I'm rainestorme, an anonymous user of the website known as GitHub.</div>  
   
 
-- 🔭 I'm currently working on [murkmod](https://github.com/rainestorme/murkmod) and a **secret** other project
+- 🔭 I'm currently working on [murkmod](https://github.com/rainestorme/murkmod)'s v118 compatibility
   
 
-- 🌱 I'm learning about ChromiumOS internals
+- 🌱 I'm ~~learning~~ reading every single file in the ChromeiumOS codesearch repo
     
 
 - ⚡ Fun fact: I use ChromeOS, btw.
