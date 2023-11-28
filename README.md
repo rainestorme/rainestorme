@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on [murkmod](https://github.com/rainestorme/murkmod)'s v118 compatibility
   
 
-- 🌱 I'm ~~learning~~ reading every single file in the ChromeiumOS codesearch repo
+- 🌱 I'm ~~learning~~ reading every single file in the ChromiumOS codesearch repo
     
 
 - ⚡ Fun fact: I use ChromeOS, btw.
