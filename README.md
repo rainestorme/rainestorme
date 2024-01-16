@@ -1,5 +1,5 @@
 <center>
-  <h2>Heyo! I'm Raine<sup>she/they</sup>.</h2>
+  <h2>Heyo! I'm rainestorme.
 </center>
 
 You should definitely read [my blog](https://rainestorme.github.io/).
