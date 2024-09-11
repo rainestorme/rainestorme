@@ -4,7 +4,7 @@
 
 You should definitely read [my blog](https://rainestorme.github.io/).
 
-- 🔭 I'm currently working on [murkmod](https://github.com/rainestorme/murkmod)'s v118 compatibility
+- 🔭 I'm currently working on some Chromebook hardware hacking shenanigans ;)
   
 
 - 🌱 I'm ~~learning~~ reading every single file in the ChromiumOS codesearch repo
